@@ -1,0 +1,12 @@
+*{
+    font-family: arial;
+}
+p{
+    background-color: aqua;
+}
+.posisi-absolute{
+    background-color: coral;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+}
