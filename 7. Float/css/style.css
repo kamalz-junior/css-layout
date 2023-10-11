@@ -1,0 +1,17 @@
+h1{
+    font-family: arial;
+}
+p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: justify;
+}
+blockquote{
+    font-family: 'Courier New', Courier, monospace;
+    font-style: italic;
+    border-top: 1px solid;
+    border-bottom: 1px solid;
+    width: 200px;
+    padding: 10px;
+    float: right;
+    margin: 10px;
+}

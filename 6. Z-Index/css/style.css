@@ -1,0 +1,16 @@
+*{
+    font-family: arial;
+
+}
+.header{
+    position: fixed;
+    top: 0px;
+    background-color: coral;
+    left: 0px;
+    width: 100%;
+    z-index: 1 ;
+}
+.container{
+    position: relative;
+    top: 100px;
+}
