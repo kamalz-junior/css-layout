@@ -1,0 +1,50 @@
+body{
+    font-family: arial;
+    width: 90%;
+    margin: 0px auto;
+    box-sizing: border-box;
+}
+.header{
+    text-align: center;
+}
+
+#content{
+    overflow: auto;     /* agar nempel dengan isinya */
+    
+}
+
+#nav, #feature, #footer{
+    background-color: gainsboro;
+    padding: 10px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    text-align: center;
+}
+
+.column1, .column2, .column3{
+    background-color: gainsboro;
+    width: 30%;
+    float: left;
+    margin-right: 1.5%;
+    margin-left: 1.5%;
+    padding: 0.66%;
+}
+.column1{
+    margin-left: 0px;
+}
+.column3{
+    margin-right: 0px;
+    /* margin-bottom: 10px; */
+}
+#content h3{
+    text-align: center;
+}
+
+#feature img{
+    width: 30%;
+}
+
+li{
+    display: inline;
+    padding: 5px;
+}
