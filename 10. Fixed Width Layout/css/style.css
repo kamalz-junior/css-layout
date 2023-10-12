@@ -1,0 +1,51 @@
+body{
+    width: 960px;
+    margin: 0px auto;
+}
+
+#header h1{
+    text-align: center;
+}
+#nav, #highlight, #footer{
+    text-align: center;
+    background-color: #efefef;
+    padding: 10px;
+    margin: 10px;
+}
+#nav li{
+    display: inline;
+    padding: 10px;
+    
+}
+
+#highlight img{
+    width: 20%;
+    
+}
+#content{
+    height: 100%;
+    overflow: auto;
+}
+
+.article{
+    width: 280px;
+    height: 200px;
+    margin: 10px;
+    padding: 10px;
+    background-color: #efefef;
+    float: left;
+}
+
+.kolom-1:hover{
+    background-color:cadetblue;
+    color: white;
+}
+
+.kolom-2:hover {
+    background-color: cadetblue;
+    color: white;
+}
+.kolom-3:hover {
+    background-color: cadetblue;
+    color: white;
+}
